@@ -1,17 +1,9 @@
 <h1 align="center">Hi 👋, I'm Raúl Reyna Hernández</h1>
 <h3 align="center">MsC Integrated Manufacturing Systems / Data Enthusiastic / Scrum Master / IT Risk Auditor</h3>
 
-	Around 3 years in experience around project management over multi-disciplinary projects involved in construction, telecommunication and IT areas.
-	Good exposure in providers, stakeholders, requirements, changes and team management.
-	Involved in the validation, implementation and maintenance phase of Software Development Life Cycle (SDLC) within telecommunication purposes. 
-	Skilled in assessing and strengthening internal controls, capable of performing thorough detailed analysis, drawing conclusions, and effectively documenting results 
-	Builds and maintains client relationships, collaborates well with team members, and stays updated on the current IT environment, with a solid gasp of platform structures, security software and         industry-specific practices
-	Hands on experience with "Effective Root cause analysis" with analytical ability to solve problems under pressure.
-	Considerable amount of experience with reporting tools such as Primavera P6, Microsoft Project
-	Knowledge on control, electrical and electronic systems, including PLC.
-	Ability to work in groups as well as independently with minimum supervision and initiative to learn modern technologies, methodologies, knowledge and tools quickly.
-	Effective communication, critical thinking, problem solving, conflict management and business ethics
+I stand before you with an enriching journey of around 3 years in project management, spanning diverse fields like construction, telecommunication, and IT. Throughout this experience, I have honed my expertise in collaborating with providers, stakeholders, and teams, while skillfully managing requirements and changes. My passion for building and nurturing client relationships has been paramount in my journey. I work harmoniously with team members and stay abreast of the ever-evolving IT landscape, mastering platform structures, security software, and industry-specific practices.Beyond my project management prowess, I have acquired a wealth of experience in Power BI tools, SQL, and data analysis. These skills have enabled me to extract valuable insights from complex datasets, driving data-informed decisions and empowering organizations to thrive in a data-driven landscape. Furthermore, my knowledge expands to control, electrical, and electronic systems, including PLC. Working both independently and collaboratively comes naturally to me, as I possess the drive to embrace modern technologies and methodologies.
 
+The key to success lies in effective communication, critical thinking, problem-solving, conflict management, and unwavering adherence to business ethics.
 
 - 👨‍💻 All of my projects are available at [https://rulovh7.github.io/RaulPortfolio.github.io/](https://rulovh7.github.io/RaulPortfolio.github.io/)
 
