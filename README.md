@@ -1,11 +1,19 @@
 <h1 align="center">Hi 👋, I'm Raúl Reyna Hernández</h1>
 <h3 align="center">MsC Integrated Manufacturing Systems / Data Enthusiastic / Scrum Master / IT Risk Auditor</h3>
 
+	Around 3 years in experience around project management over multi-disciplinary projects involved in construction, telecommunication and IT areas.
+	Good exposure in providers, stakeholders, requirements, changes and team management.
+	Involved in the validation, implementation and maintenance phase of Software Development Life Cycle (SDLC) within telecommunication purposes. 
+	Skilled in assessing and strengthening internal controls, capable of performing thorough detailed analysis, drawing conclusions, and effectively documenting results 
+	Builds and maintains client relationships, collaborates well with team members, and stays updated on the current IT environment, with a solid gasp of platform structures, security software and         industry-specific practices
+	Hands on experience with "Effective Root cause analysis" with analytical ability to solve problems under pressure.
+	Considerable amount of experience with reporting tools such as Primavera P6, Microsoft Project
+	Knowledge on control, electrical and electronic systems, including PLC.
+	Ability to work in groups as well as independently with minimum supervision and initiative to learn modern technologies, methodologies, knowledge and tools quickly.
+	Effective communication, critical thinking, problem solving, conflict management and business ethics
+
+
 - 👨‍💻 All of my projects are available at [https://rulovh7.github.io/RaulPortfolio.github.io/](https://rulovh7.github.io/RaulPortfolio.github.io/)
-
-- 📫 How to reach me **raul_rh7@outlook.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/raul-reyna-hernandez-3a8062134/](https://www.linkedin.com/in/raul-reyna-hernandez-3a8062134/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
