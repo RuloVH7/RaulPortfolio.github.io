@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raúl Reyna Hernández</h1>
-<h3 align="center">MsC Integrated Manufacturing Systems / Data Enthusiastic</h3>
+<h3 align="center">MsC Integrated Manufacturing Systems / Data Enthusiastic / Scrum Master / IT Risk Auditor</h3>
 
 - 👨‍💻 All of my projects are available at [https://rulovh7.github.io/RaulPortfolio.github.io/](https://rulovh7.github.io/RaulPortfolio.github.io/)
 
